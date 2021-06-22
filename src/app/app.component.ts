@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'AngularMaterial12FileUpload';
+  title = 'Angular Material 12 File Upload';
 }
